@@ -1,0 +1,6 @@
+2025-08-03 21:57:56,565 - INFO - Generated AES key from passphrase (length: 32 bytes)
+2025-08-03 21:59:17,307 - INFO - Message from Adiii: Adiii: Hi guys wasssa...
+2025-08-03 21:59:23,619 - INFO - Message from Adiii: Adiii: am adhiii...
+2025-08-03 21:59:38,043 - ERROR - Client handling error: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-08-03 21:59:38,043 - INFO - Adiii disconnected
+2025-08-03 21:59:38,043 - INFO - Removed client. Active clients: 0
